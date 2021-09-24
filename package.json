@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Blog app",
+  "main": "index.js",
+  "author": "Manjesh Hembrom",
+  "license": "MIT"
+}
