@@ -4,5 +4,8 @@
   "description": "Blog app",
   "main": "index.js",
   "author": "Manjesh Hembrom",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "prisma": "^3.1.1"
+  }
 }
